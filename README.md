@@ -2,7 +2,7 @@
 
 ## Data Sources:
 - Main data was retrieved from [Kaggle](https://www.kaggle.com/) and downloaded as a [CSV file](JV_Analysis/IMDb_All_Genres_etf_clean1.csv).
-- The Kaggle CSV file was then combined with data from (OMDb API)[https://www.omdbapi.com/] using requests via Python in this [file](Data/OMDB_API_Pull.ipynb). 
+- The Kaggle CSV file was then combined with data from [OMDb API](https://www.omdbapi.com/) using requests via Python in this [file](Data/OMDB_API_Pull.ipynb). 
 - The dataframe of the OMDb and Kaggle data were then combined into a single dataframe which was then output as a [CSV File](JV_Analysis/IMDb_All_Genres_etf_clean1.csv).
 
 ## Code Troubleshooting:
