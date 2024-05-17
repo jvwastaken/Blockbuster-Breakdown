@@ -1,6 +1,6 @@
 # Project-1: Blockbuster Breakdown
 
-## [Presentation Slide Deck](https://docs.google.com/presentation/d/1v_--HaIa1OSJRno0qAtDaoDza1WjRY2ri0L0fFIT5qU/edit#slide=id.g27166c0f899_0_28)
+## [Presentation Slide Deck](Data/Project_1_Blockbuster_Breakdown.pdf)
 
 ## Data Sources:
 - Main data was retrieved from [Kaggle](https://www.kaggle.com/) and downloaded as a [CSV file](Data/starting_7351.csv).
@@ -30,5 +30,5 @@
 2. Tuesday, May 6th JV merged a list of 5000 movies from Kaggle and combined it with data from https://www.omdbapi.com/ to create Movie_RawDataset.csv
 3. Tuesday, May 14th the team took clean version of the data and merged with with another set to get more records.
 4. Wednesday, May 15th the team will look to complete their respective analyis. 
-5. Thursday, May 16th the team will present [findings](https://docs.google.com/presentation/d/1v_--HaIa1OSJRno0qAtDaoDza1WjRY2ri0L0fFIT5qU/edit#slide=id.g2dc15d34b5e_0_6352)
+5. Thursday, May 16th the team presented findings via the Presentation Slide Deck
 
