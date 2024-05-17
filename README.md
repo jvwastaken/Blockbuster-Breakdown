@@ -27,7 +27,7 @@
 
 #### Team Timeline:
 1. Monday, May 5th we created the project propsal for "Blockbuster Breakdown" and had team members review different data sets. 
-2. Tuesday, May 6th JV merged a list of 5000 movies from Kaggle and combined it with data from https://www.omdbapi.com/ to create Movie_RawDataset.csv
+2. Tuesday, May 6th Team merged a list of 5000 movies from Kaggle and combined it with data from [OMDb API](https://www.omdbapi.com/) to create [this CSV file](Data/starting_7351.csv)
 3. Tuesday, May 14th the team took clean version of the data and merged with with another set to get more records.
 4. Wednesday, May 15th the team will look to complete their respective analyis. 
 5. Thursday, May 16th the team presented findings via the Presentation Slide Deck
